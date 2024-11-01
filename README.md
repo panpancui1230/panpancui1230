@@ -6,7 +6,7 @@
 - 😄 Pronouns: Learning bubble
 - ⚡ Fun fact: badminton, rock climbing and music, whch help me keep relaxed
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sun123-cmd)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=panpancui1230)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🚀 Technologies
